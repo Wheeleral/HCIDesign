@@ -6,11 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Website link](https://wheeleral.github.io/HCIDesign/)
 
-##Who am I?
+## Who am I?
 I am Alexandra Wheeler, senior student at WPI. I study robotic engineering and computer science. My ideal job would be working on the design of interfaces between humans and robots. And yes, robotics engineering in my main major. I'm going to be working at Rocket Software come june 2019 and plan to go back to graduate school in a few years. 
 
 
-##How my design methods have changed
+## How my design methods have changed
 
 Not every design can translate into reality
   - sometimes user testing shows what you thought of as amazing is a terrible idea, ie a very sarcastic chat bot, paper protoype for others
