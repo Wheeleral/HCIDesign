@@ -5,6 +5,8 @@ I am Alexandra Wheeler, senior student at WPI. I study robotic engineering and c
 
 
 ## How my design methods have changed
+Link to this in a medium post:
+
 Before this class I have never given so much thought into design. The design of a product is more than the functionality, does it work as it is intended. How it looks, what attracts users to using the product, what do users see when they first look at the product, what is the feel of the product; all of that is important in trying to make a well designed product. Through this class I know how to define those questions and I now can give my own impacts from the class.
 ### Design vs Reality
 The first thing I learned and learned quickly is that not every design can translate into reality. This point is split into two concepts, ideas that just do not work and ideas that technically limited. Sometimes user testing shows what you thought of as amazing is a terrible idea. This has two instances that I distinctly remember, the paper prototype for design for others and the design for tension. 
@@ -48,24 +50,35 @@ So to sum everything up:
 - Do not give up
 
 Design impacts everyone from the developers to the users, do not be afraid to go out side the box or just stay right inside it. 
-Links to my medium posts referenced in this article:
 
-Design for good: https://medium.com/@alexandrawheeler_11414/good-design-library-af9c8e71e33f
+## Projects 
+### Design for good/Bad
+In this I researched differnet design techniques and then going through the WPI.edu I found one page that had good design techniques and one with bad techniques.
+https://medium.com/@alexandrawheeler_11414/good-design-library-af9c8e71e33f
+https://medium.com/@alexandrawheeler_11414/bad-design-parents-6bc0ee80c926
 
-Design for bad: https://medium.com/@alexandrawheeler_11414/bad-design-parents-6bc0ee80c926
+### Design for others
+We re-designed the the Worcester Library mobile website to better function for a hyper-specific demographic: freelancing ui/ux designers. We placed a big focus on ease-of-use and organization of information. This included a complete overhauled of the navigational menu and how several pages displayed the massive amount of content.
 
-Design for others: https://medium.com/@alexandrawheeler_11414/library-to-mobile-a-tale-for-ui-ux-designers-284cb952d5a
+https://medium.com/@alexandrawheeler_11414/library-to-mobile-a-tale-for-ui-ux-designers-284cb952d5a
 
-Design for understanding: https://medium.com/@alexandrawheeler_11414/design-for-understanding-b6ecf9124a5d
+### Design for understanding
+We had to design a webpage with several graphs trying to persuade an audience to a topic. We created several graphs based on CORGIS Datasets Project Suicide Attacks dataset. We tried to persuade the audience in regards to the devestaion the belt and vechile bombs. 
 
-Design for tension: https://medium.com/@alexandrawheeler_11414/tension-design-chatbot-for-vaccines-cbf24caa13aa
+https://medium.com/@alexandrawheeler_11414/design-for-understanding-b6ecf9124a5d
 
-Design for well being: https://medium.com/@alexandrawheeler_11414/emotion-qualitative-to-quantitative-9a3038d44c1
+### Design for tension
+We built a chatbot that attempts to convince users to become pro-vaccine. WE used a multitude of facts and refrenced information to try and persuade the user. 
 
-Design for another world:
+https://medium.com/@alexandrawheeler_11414/tension-design-chatbot-for-vaccines-cbf24caa13aa
 
+### Design for well being
+We created a webpage that utilized the Affectiva libary. This resulted in a page that showed your emotions (Joy, sadness, anger and suprise) in realtime as you watched a youtube video.
 
-Link to this in medium: 
+https://medium.com/@alexandrawheeler_11414/emotion-qualitative-to-quantitative-9a3038d44c1
+
+### Design for another world:
+We designed a VR maze in Aframe. This maze creates a creepy effect through the fog, music, twists and turns, and static images on the walls. This was my favorite project. 
 
 
 [Website link](https://wheeleral.github.io/HCIDesign/)
