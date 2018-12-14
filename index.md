@@ -53,6 +53,7 @@ So to sum everything up:
 Design impacts everyone from the developers to the users, do not be afraid to go out side the box or just stay right inside it. 
 
 -----
+
 ## Projects 
 ### Design for good/Bad
 In this I researched differnet design techniques and then going through the WPI.edu I found one page that had good design techniques and one with bad techniques.
