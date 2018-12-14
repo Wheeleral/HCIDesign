@@ -3,6 +3,7 @@
 ## Who am I?
 I am Alexandra Wheeler, senior student at WPI. I study robotic engineering and computer science. My ideal job would be working on the design of interfaces between humans and robots. And yes, robotics engineering in my main major. I'm going to be working at Rocket Software come june 2019 and plan to go back to graduate school in a few years. 
 
+-----
 
 ## How my design methods have changed
 Link to this in a medium post:
@@ -51,6 +52,7 @@ So to sum everything up:
 
 Design impacts everyone from the developers to the users, do not be afraid to go out side the box or just stay right inside it. 
 
+-----
 ## Projects 
 ### Design for good/Bad
 In this I researched differnet design techniques and then going through the WPI.edu I found one page that had good design techniques and one with bad techniques.
