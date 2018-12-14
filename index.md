@@ -49,13 +49,21 @@ So to sum everything up:
 
 Design impacts everyone from the developers to the users, do not be afraid to go out side the box or just stay right inside it. 
 Links to my medium posts referenced in this article:
+
 Design for good: https://medium.com/@alexandrawheeler_11414/good-design-library-af9c8e71e33f
+
 Design for bad: https://medium.com/@alexandrawheeler_11414/bad-design-parents-6bc0ee80c926
+
 Design for others: https://medium.com/@alexandrawheeler_11414/library-to-mobile-a-tale-for-ui-ux-designers-284cb952d5a
+
 Design for understanding: https://medium.com/@alexandrawheeler_11414/design-for-understanding-b6ecf9124a5d
+
 Design for tension: https://medium.com/@alexandrawheeler_11414/tension-design-chatbot-for-vaccines-cbf24caa13aa
+
 Design for well being: https://medium.com/@alexandrawheeler_11414/emotion-qualitative-to-quantitative-9a3038d44c1
+
 Design for another world:
+
 
 Link to this in medium: 
 
