@@ -6,7 +6,7 @@ I am Alexandra Wheeler, senior student at WPI. I study robotic engineering and c
 -----
 
 ## How my design methods have changed
-Link to this in a medium post:
+Link to this in a medium post: https://medium.com/@alexandrawheeler_11414/design-manifesto-how-my-design-methods-have-changed-615f2d36cb41
 
 Before this class I have never given so much thought into design. The design of a product is more than the functionality, does it work as it is intended. How it looks, what attracts users to using the product, what do users see when they first look at the product, what is the feel of the product; all of that is important in trying to make a well designed product. Through this class I know how to define those questions and I now can give my own impacts from the class.
 ### Design vs Reality
@@ -82,6 +82,7 @@ https://medium.com/@alexandrawheeler_11414/emotion-qualitative-to-quantitative-9
 
 ### Design for another world:
 We designed a VR maze in Aframe. This maze creates a creepy effect through the fog, music, twists and turns, and static images on the walls. This was my favorite project. 
+https://medium.com/@mtuckergrim/designing-for-another-world-6675bea03a8c
 
 
 [Website link](https://wheeleral.github.io/HCIDesign/)
